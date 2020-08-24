@@ -1,8 +1,8 @@
 # Site settings
 title: VietEcon
 baseurl: "/vietecon"
-url: "localhost:4000"
-google_analytics: "UA-000000-01" # Tracking ID, e.g. "UA-000000-01"
+url: "https://vieteconuk.github.io"
+google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
