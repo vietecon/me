@@ -1,6 +1,6 @@
 # Site settings
 title: VietEcon
-baseurl: "/me"
+baseurl: 
 url: "https://vietecon.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
