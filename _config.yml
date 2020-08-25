@@ -1,7 +1,7 @@
 # Site settings
 title: VietEcon
-baseurl:"/me" 
-url: "https://vietecon.github.io"
+#baseurl:"/me" 
+url: "https://vietecon.github.io/me"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
