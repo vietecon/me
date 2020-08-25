@@ -8,17 +8,17 @@ I am a [Research Economist](https://cep.lse.ac.uk/_new/staff/person.asp?id=10783
 <br/>
 
 # Research
-## Publications
-* Jones, B., Elliott, R., Nguyen-Tien, V., (2020) ‘The Electric Vehicles Revolution:  The Road ahead for Critical Raw Materials Demand’, *Applied Energy* (forthcoming).
-* Nguyen-Tien, V., Elliott, R. and Strobl, E. A. (2018), ‘Hydropower generation, flood control and dam cascades: A national assessment for Vietnam’, *Journal of Hydrology* **560**, 109–126. [[Paper]](https://doi.org/10.1016/j.jhydrol.2018.02.063) [[Free version]](https://research.birmingham.ac.uk/portal/files/48521145/Nguyen_Tien_et_al_Hydropower_generation_Journal_of_Hydrology_2018.pdf)
+## Work in Progress
+* ‘Mapping the production, diffusion and drivers of future technologies’ (with Draca, M., Nathan, M., Sivropoulos-Valero, A., Zhang, S., Rosso, A., Oliveira-Cunha, J.)
+*	‘Do Natural Disasters Make Politicians More Environmentally Friendly? - Evidence from Environmental Legislation in the US Senate’ (with Elliott, R. J. R., Strobl, E., Tveit, T.)
+*	‘Survival of the Cleanest: A Parametric and Non-parametric Analysis of the Longevity of Electric Vehicles’ (with Elliott, R., Strobl, E., Zhang, C.)
+* ‘Extreme Weather and Vehicle Reliability (with Elliott, R., Strobl, E., Zhang, C.)
 
 ## Work near Submission
 * Nguyen-Tien, V., Elliott, R., Harper, G., Dai, Q., Paul, A., ‘The Where, When, and How for Electric-Vehicle Lithium-ion Battery Recyling in the UK’.
 * Elliott, R., Nguyen-Tien, V., Strobl, E., ‘Power Outages and Firm Performance in a Rapidly Developing Country: A Hydro-IV Approach for Vietnam’.
 
-## Work in Progress
-* ‘Mapping the production, diffusion and drivers of future technologies’ (with Draca, M., Nathan, M., Sivropoulos-Valero, A., Zhang, S., Rosso, A., Oliveira-Cunha, J.)
-*	‘Do Natural Disasters Make Politicians More Environmentally Friendly? - Evidence from Environmental Legislation in the US Senate’ (with Elliott, R. J. R., Strobl, E., Tveit, T. )
-*	‘Survival of the Cleanest: A Parametric and Non-parametric Analysis of the Longevity of Electric Vehicles’ (with Elliott, R., Strobl, E., Zhang, C.)
-* ‘Extreme Weather and Vehicle Reliability (with Elliott, R., Strobl, E., Zhang, C.)
+## Publications
+* Jones, B., Elliott, R., Nguyen-Tien, V., (2020) ‘The Electric Vehicles Revolution:  The Road ahead for Critical Raw Materials Demand’, *Applied Energy* (forthcoming).
+* Nguyen-Tien, V., Elliott, R. and Strobl, E. A. (2018), ‘Hydropower generation, flood control and dam cascades: A national assessment for Vietnam’, *Journal of Hydrology* **560**, 109–126. [[Paper]](https://doi.org/10.1016/j.jhydrol.2018.02.063) [[Free version]](https://research.birmingham.ac.uk/portal/files/48521145/Nguyen_Tien_et_al_Hydropower_generation_Journal_of_Hydrology_2018.pdf)
 <br/>
