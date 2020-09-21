@@ -10,12 +10,13 @@ I am a [Research Economist](https://cep.lse.ac.uk/_new/staff/person.asp?id=10783
 # Research
 ## Work in Progress
 * ‘Mapping the production, diffusion and drivers of future technologies’ (with Draca, M., Nathan, M., Sivropoulos-Valero, A., Zhang, S., Rosso, A., Oliveira-Cunha, J.)
+* ‘The EV revolution: economic and policy implications for natural resource exporters in developing countries' (with Jones, B., Elliott, R.)
 *	‘Do Natural Disasters Make Politicians More Environmentally Friendly? - Evidence from Environmental Legislation in the US Senate’ (with Elliott, R. J. R., Strobl, E., Tveit, T.)
 *	‘Survival of the Cleanest: A Parametric and Non-parametric Analysis of the Longevity of Electric Vehicles’ (with Elliott, R., Strobl, E., Zhang, C.)
 * ‘Extreme Weather, Vehicle Reliability and Scrappage Schemes’ (with Elliott, R., Strobl, E., Zhang, C.)
 
 ## Work near Submission
-* Nguyen-Tien, V., Elliott, R., Harper, G., Dai, Q., Paul, A., ‘The Where, When, and How for Electric-Vehicle Lithium-ion Battery Recyling in the UK’.
+* Nguyen-Tien, V., Dai, Q., Harper, G., Paul, A., Elliott, R., ‘Recycling electric-vehicle lithium-ion batteries: An economic and geospatial analysis for the UK’.
 * Elliott, R., Nguyen-Tien, V., Strobl, E., ‘Power Outages and Firm Performance in a Rapidly Developing Country: A Hydro-IV Approach for Vietnam’.
 
 ## Publications
