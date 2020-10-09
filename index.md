@@ -20,6 +20,6 @@ I am a [Research Economist](https://cep.lse.ac.uk/_new/staff/person.asp?id=10783
 * Elliott, R., Nguyen-Tien, V., Strobl, E., ‘Power Outages and Firm Performance in a Rapidly Developing Country: A Hydro-IV Approach for Vietnam’.
 
 ## Publications
-* Jones, B., Elliott, R., Nguyen-Tien, V., (2020) ‘The Electric Vehicles Revolution:  The Road ahead for Critical Raw Materials Demand’, *Applied Energy* (forthcoming).
+* Jones, B., Elliott, R., Nguyen-Tien, V. (2020), ‘The Electric Vehicles Revolution:  The Road ahead for Critical Raw Materials Demand’, *Applied Energy* **280**. [[Open Access]](https://www.sciencedirect.com/science/article/pii/S0306261920305845).
 * Nguyen-Tien, V., Elliott, R. and Strobl, E. A. (2018), ‘Hydropower generation, flood control and dam cascades: A national assessment for Vietnam’, *Journal of Hydrology* **560**, 109–126. [[Paper]](https://doi.org/10.1016/j.jhydrol.2018.02.063) [[Free version]](https://research.birmingham.ac.uk/portal/files/48521145/Nguyen_Tien_et_al_Hydropower_generation_Journal_of_Hydrology_2018.pdf)
 <br/>
