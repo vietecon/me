@@ -10,14 +10,19 @@ I am a [Research Economist](https://cep.lse.ac.uk/_new/staff/person.asp?id=10783
 # Research
 ## Work in Progress
 * ‘Mapping the production, diffusion and drivers of future technologies’ (with Draca, M., Nathan, M., Sivropoulos-Valero, A., Zhang, S., Rosso, A., Oliveira-Cunha, J.)
-* ‘The EV revolution: economic and policy implications for natural resource exporters in developing countries' (with Jones, B., Elliott, R.)
-*	‘Do Natural Disasters Make Politicians More Environmentally Friendly? - Evidence from Environmental Legislation in the US Senate’ (with Elliott, R. J. R., Strobl, E., Tveit, T.)
+* ‘Trends in Green Jobs in the UK and EU’ (with Sivropoulos-Valero, A., Riom, C., Li, J., Muller, SR.)
 *	‘Survival of the Cleanest: A Parametric and Non-parametric Analysis of the Longevity of Electric Vehicles’ (with Elliott, R., Strobl, E., Zhang, C.)
 * ‘Extreme Weather, Vehicle Reliability and Scrappage Schemes’ (with Elliott, R., Strobl, E., Zhang, C.)
 
 ## Work near Submission
-* Nguyen-Tien, V., Dai, Q., Harper, G., Paul, A., Elliott, R., ‘Recycling electric-vehicle lithium-ion batteries: An economic and geospatial analysis for the UK’.
-* Elliott, R., Nguyen-Tien, V., Strobl, E., ‘Power Outages and Firm Performance in a Rapidly Developing Country: A Hydro-IV Approach for Vietnam’.
+*	‘Do Natural Disasters Make Politicians More Environmentally Friendly? - Evidence from Environmental Legislation in the US Senate’ (with Elliott, R. J. R., Strobl, E., Tveit, T.)
+* ‘The EV revolution: economic and policy implications for natural resource exporters in developing countries' (with Jones, B., Elliott, R.)
+
+
+## Work under Submission
+* Elliott, R., Nguyen-Tien, V., Strobl, E. (2021), ‘Power Outages and Firm Performance: A Hydro-IV Approach for a Single Electricity Grid’, submitted to Energy Economics (R&R).
+* Nguyen-Tien, V., Dai, Q., Harper, G., Paul, A., Elliott, R. (2021), ‘Optimising the Geospatial Configuration of a Future Lithium-Ion Battery Recycling Industry in the Transition to Electric Vehicles and a Circular Economy’ – submitted to a joint Special Issue of Applied Energy and Resource, Conservation and Recycling.
+* Lander, L., Cleaver, T., Rajaeifar, M., Nguyen-Tien, V., Elliott, R., Heidrich, O., Kendrick, E., Edge, J., Offer, G. (2021), ‘Financial Viability of Electric Vehicle Lithium-Ion Battery Recycling’, submitted to iScience.
 
 ## Publications
 * Jones, B., Elliott, R., Nguyen-Tien, V. (2020), ‘The Electric Vehicles Revolution:  The Road ahead for Critical Raw Materials Demand’, *Applied Energy* **280**. [[Open Access]](https://www.sciencedirect.com/science/article/pii/S0306261920305845).
