@@ -9,7 +9,7 @@ Policy incentives, rising incomes, and technological advancements are anticipate
 
 ![evcommodities](../assets/img/F01bCoMIT.png)
 
-Our model forecasts large increases in demand for certain base metals, including a 37 and 18 fold increase in demand for cobalt and lithium (relative to 2015 levels), respectivelly. We also anticipate significant increase in demand for manganese, nickel, copper, chrome and aluminium. 
+By 2030, we anticipate that the demand for vehicles general will increase by 27.4%, of which 13.3% will be EVs. Our model also predicts a large increase in the demand for certain base metals, including a 37 and 18-fold increase in demand for cobalt and lithium (relative to 2015 levels), respectively. Without major changes in certain technologies, the cobalt and lithium supply chains could seriously constrain the widespread deployment of EVs. Significant demand increases are also predicted for copper, chrome, and aluminium. We also highlight the importance of China in driving demand for EVs and the critical materials needed to produce them.
 
 Forecasted new vehicle sales by powertrain|Forecasted metal demand for new vehicles
 :-:|:-:
