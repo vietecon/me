@@ -13,9 +13,10 @@ I am a [Research Economist](https://cep.lse.ac.uk/_new/staff/person.asp?id=10783
 * Nguyen-Tien, V., Elliott, R. and Strobl, E. A. (2018), ‘Hydropower generation, flood control and dam cascades: A national assessment for Vietnam’, *Journal of Hydrology* **560**, 109–126. [[Paper]](https://doi.org/10.1016/j.jhydrol.2018.02.063) [[Free version]](https://research.birmingham.ac.uk/portal/files/48521145/Nguyen_Tien_et_al_Hydropower_generation_Journal_of_Hydrology_2018.pdf).
 
 ## Work Submitted
-*	‘Natural Disasters and Voting Behaviour:  Evidencefrom Environmental Legislation in the US Senate’ (with Elliott, R. J. R., Strobl, E., Tveit, T.).
-* ‘The EV revolution: economic and policy implications for natural resource exporters in developing countries' (with Jones, B., Elliott, R.).
-* ‘Optimising the Geospatial Configuration of a Future Lithium-Ion Battery Recycling Industry in the Transition to Electric Vehicles and a Circular Economy’ (with Dai, Q., Harper, G., Paul, A., Elliott, R.).
+*	‘Natural Disasters and Voting Behaviour:  Evidencefrom Environmental Legislation in the US Senate’ (with Elliott, R. J. R., Strobl, E., Tveit, T.). [[Working Paper]](https://www.dropbox.com/s/bxgwdnec8ccbihm/Green%20voting.pdf?dl=0)
+* ‘Optimising the Geospatial Configuration of a Future Lithium-Ion Battery Recycling Industry in the Transition to Electric Vehicles and a Circular Economy’ (with Dai, Q., Harper, G., Paul, A., Elliott, R.). [[Working Paper]](https://www.dropbox.com/s/o3u00ub2f5mqhwa/ReLIB%20Draft.pdf?dl=0)
+* ‘The EV Revolution: Critical Material Supply Chains, Trade, and Development' (with Jones, B., Elliott, R.). [[Working Paper]](https://www.repec.bham.ac.uk/pdf/21-15.pdf)
+
  
 ## Work in Progress
 *	‘The New Wave? Technology Diffusion in the UK during the 2010s.’ (with Draca, M., Nathan, M., Sivropoulos-Valero, A., Zhang, S., Rosso, A., Oliveira-Cunha, J.).
