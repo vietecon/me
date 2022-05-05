@@ -7,6 +7,7 @@ I am a [Research Economist](https://cep.lse.ac.uk/_new/staff/person.asp?id=10783
 
 # Research
 ## Publications
+*	Nguyen-Tien, V., Dai, Q., Harper, G., Paul, A., Elliott, R., (2022) ‘Optimising the Geospatial Configuration of a Future Lithium-Ion Battery Recycling Industry in the Transition to Electric Vehicles and a Circular Economy’, Applied Energy (forthcoming).  [[Working Paper]](https://www.dropbox.com/s/o3u00ub2f5mqhwa/ReLIB%20Draft.pdf?dl=0)
 * Elliott, R., Nguyen-Tien, V., Strobl, E. (2021), ‘Power Outages and Firm Performance: A Hydro-IV Approach for a Single Electricity Grid’, *Energy Economics* **103**, 105571. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0140988321004436).
 * Lander, L., Cleaver, T., Rajaeifar, M., Nguyen-Tien, V., Elliott, R., Heidrich, O., Kendrick, E., Edge, J., Offer, G. (2021), ‘Financial Viability of Electric Vehicle Lithium-Ion Battery Recycling’, *iScience* **24**, 102787. [[Open Access]](https://www.sciencedirect.com/science/article/pii/S2589004221007550).
 * Jones, B., Elliott, R., Nguyen-Tien, V. (2020), ‘The Electric Vehicles Revolution:  The Road ahead for Critical Raw Materials Demand’, *Applied Energy* **280**. [[Open Access]](https://www.sciencedirect.com/science/article/pii/S0306261920305845).
@@ -14,7 +15,6 @@ I am a [Research Economist](https://cep.lse.ac.uk/_new/staff/person.asp?id=10783
 
 ## Work Submitted
 *	‘For Whom Senators Vote? Climate-related Natural Disasters and Environmental Legislation in the US’ (with Elliott, R. J. R., Strobl, E., Tveit, T.). [[Working Paper]](https://www.dropbox.com/s/bxgwdnec8ccbihm/Green%20voting.pdf?dl=0)
-* ‘Optimising the Geospatial Configuration of a Future Lithium-Ion Battery Recycling Industry in the Transition to Electric Vehicles and a Circular Economy’ (with Dai, Q., Harper, G., Paul, A., Elliott, R.). [[Working Paper]](https://www.dropbox.com/s/o3u00ub2f5mqhwa/ReLIB%20Draft.pdf?dl=0)
 * ‘The EV Revolution: Critical Material Supply Chains, Trade, and Development' (with Jones, B., Elliott, R.). [[Working Paper]](https://www.dropbox.com/s/e5kn3kpme9d2syv/CoMIT2.pdf?dl=0) [[Repec]](https://ideas.repec.org/p/bir/birmec/21-15.html).
 
  
