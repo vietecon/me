@@ -14,7 +14,7 @@ We introduce an approach to take into account the extreme value distributions of
 
 ![hydroiv_diagram](../assets/img/extremevalue.png)
 
-Monitoring senatorial scores of roll call votes on environmental legislation and natural disaster losses over a 44 year period, our empirical study shows that  support for environmental legislation increases in response to unusual human losses but does not respond to unusual economic losses
+Monitoring senatorial scores of roll call votes on environmental legislation and natural disaster losses over a 44 year period, our empirical study shows that  support for environmental legislation increases in response to unusual human losses but does not respond to unusual economic losses. Their reaction in terms of voting for environmental friendly legislation is not immediate and is relatively short-lived.
 
 ![alt](../assets/img/sengranger.png)
 ![alt](../assets/img/impact.png) 
