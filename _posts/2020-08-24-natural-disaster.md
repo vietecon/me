@@ -16,6 +16,6 @@ We introduce an approach to take into account the extreme value distributions of
 
 Monitoring senatorial scores of roll call votes on environmental legislation and natural disaster losses over a 44 year period, our empirical study shows that support for environmental legislation increases in response to human losses but falls after economic damage.
 
-Human cost | Economic cost | Both
-- | - |-
-![alt](../assets/img/3F05CF1human.png) | ![alt](../assets/img/3F05CF1econ.png) | ![alt](../assets/img/3F05CF1econhuman.png)
+Individual impact | Aggregated impact
+- | - 
+![alt](../assets/img/sengranger.png) | ![alt](../assets/img/impact.png) 
