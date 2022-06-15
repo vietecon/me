@@ -30,5 +30,5 @@ I am an applied economist interested in economic and political issues related to
 *	‘The New Wave? Technology Diffusion in the UK during the 2010s.’ (with Draca, M., Nathan, M., Sivropoulos-Valero, A., Zhang, S., Rosso, A., Oliveira-Cunha, J.).[[POID]](https://poid.lse.ac.uk/events/past-research-seminars.asp) [[Slides]](https://warwick.ac.uk/fac/soc/economics/staff/mdraca/new_wave_3.pdf)
 *	‘The Empirics of 'Blitzscaling': technology and high-growth firms in the UK’ (with Draca, M., Nathan, M., Sivropoulos-Valero, A., Zhang, S., Rosso, A., Oliveira-Cunha, J.). [[POID]](https://poid.lse.ac.uk/events/past-research-seminars.asp)
 *	‘Extreme Weather, Vehicle Reliability and Scrappage Schemes’ (with Elliott, R., Strobl, E., Zhang, C.).
-*	‘Mineral Price Shocks, Disruptive Technologies and Innovative Firms’
+*	‘Mineral Price Shocks, Disruptive Technologies and Innovative Firms’.
 
