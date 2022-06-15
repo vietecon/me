@@ -21,9 +21,9 @@ I am an applied economist interested in economic and political issues related to
 * Curran, B., Martin, R., Muller, S., Nguyen-Tien, V., Oliveira-Cunha, J., Serin, E., Shah, A., Valero, A. & Verhoeven, D. (2022), 'Growing clean : Identifying and investing in sustainable growth opportunities across the UK'. The Resolution Foundation. [[Report]](https://economy2030.resolutionfoundation.org/wp-content/uploads/2022/05/Growing_clean.pdf) [[Financial Times]](https://www.ft.com/content/4066afc1-aa57-4343-8f83-d2e7efb57d95?shareType=nongift)
 
 ## Work Submitted
-*	‘For Whom Senators Vote? Climate-related Natural Disasters and Environmental Legislation in the US’ (with Elliott, R. J. R., Strobl, E., Tveit, T.). [[Working Paper]](https://www.dropbox.com/s/bxgwdnec8ccbihm/Green%20voting.pdf?dl=0)
-* ‘The EV Revolution: Critical Material Supply Chains, Trade, and Development' (with Jones, B., Elliott, R.). [[Working Paper]](https://www.dropbox.com/s/e5kn3kpme9d2syv/CoMIT2.pdf?dl=0) [[Repec]](https://ideas.repec.org/p/bir/birmec/21-15.html).
-* ‘Breaking it down: A techno-economic assessment of the impact of battery pack design on disassembly costs’ (with Lander, L.,  Tagnon, C., Kendrick, E., Elliott, R.,  Abbott, A. , Edge, J., Offer, G.), submitted to Nature Sustainability.
+*	‘For Whom Senators Vote? Climate-related Natural Disasters and Environmental Legislation in the US’ (with Elliott, R. J. R., Strobl, E., Tveit, T.). [[Working Paper]](https://www.dropbox.com/s/bxgwdnec8ccbihm/Green%20voting.pdf?dl=0), R&R at *Journal of the Association of Environmental and Resource Economists*.
+* ‘The EV Revolution: Critical Material Supply Chains, Trade, and Development' (with Jones, B., Elliott, R.). [[Working Paper]](https://www.dropbox.com/s/e5kn3kpme9d2syv/CoMIT2.pdf?dl=0) [[Repec]](https://ideas.repec.org/p/bir/birmec/21-15.html), R&R at *The World Economy*
+* ‘Breaking it down: A techno-economic assessment of the impact of battery pack design on disassembly costs’ (with Lander, L.,  Tagnon, C., Kendrick, E., Elliott, R.,  Abbott, A. , Edge, J., Offer, G.), submitted to *Nature Sustainability*.
 
  
 ## Work in Progress
