@@ -12,7 +12,7 @@ I am an applied economist interested in economic and political issues related to
 
 # Research
 ## Publications 
-* Elliott, R., Nguyen-Tien, V., Strobl, E., Tveit, T. (2023), ‘Natural Disasters and Voting Behavior: Evidence from Environmental Legislation in the US Senate’, *Journal of the Association of Environmental and Resource Economists*, **10** (3).
+* Elliott, R., Nguyen-Tien, V., Strobl, E., Tveit, T. (2023), ‘Natural Disasters and Voting Behavior: Evidence from Environmental Legislation in the US Senate’, *Journal of the Association of Environmental and Resource Economists*, **10** (3). [[Paper]](https://www.journals.uchicago.edu/doi/10.1086/722540)
 * Jones, B., Nguyen-Tien, V., Elliott, R. (2022), ‘The EV revolution: economic and policy implications for natural resource exporters in developing countries’,  *The World Economy* (forthcoming).
 *	Nguyen-Tien, V., Dai, Q., Harper, G., Paul, A., Elliott, R., (2022) ‘Optimising the Geospatial Configuration of a Future Lithium-Ion Battery Recycling Industry in the Transition to Electric Vehicles and a Circular Economy’, *Applied Energy* **321** 119230.  [[Open Access]](https://www.sciencedirect.com/science/article/pii/S0306261922005943)
 * Elliott, R., Nguyen-Tien, V., Strobl, E. (2021), ‘Power Outages and Firm Performance: A Hydro-IV Approach for a Single Electricity Grid’, *Energy Economics* **103**, 105571. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0140988321004436).
