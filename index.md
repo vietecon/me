@@ -12,6 +12,8 @@ I am an applied economist interested in economic and political issues related to
 
 # Research
 ## Publications 
+* Elliott, R., Nguyen-Tien, V., Strobl, E., Tveit, T. (2023), ‘Natural Disasters and Voting Behavior: Evidence from Environmental Legislation in the US Senate’, *Journal of the Association of Environmental and Resource Economists*, **10** (3).
+* Jones, B., Nguyen-Tien, V., Elliott, R. (2022), ‘The EV revolution: economic and policy implications for natural resource exporters in developing countries’,  *The World Economy* (forthcoming).
 *	Nguyen-Tien, V., Dai, Q., Harper, G., Paul, A., Elliott, R., (2022) ‘Optimising the Geospatial Configuration of a Future Lithium-Ion Battery Recycling Industry in the Transition to Electric Vehicles and a Circular Economy’, *Applied Energy* **321** 119230.  [[Open Access]](https://www.sciencedirect.com/science/article/pii/S0306261922005943)
 * Elliott, R., Nguyen-Tien, V., Strobl, E. (2021), ‘Power Outages and Firm Performance: A Hydro-IV Approach for a Single Electricity Grid’, *Energy Economics* **103**, 105571. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0140988321004436).
 * Lander, L., Cleaver, T., Rajaeifar, M., Nguyen-Tien, V., Elliott, R., Heidrich, O., Kendrick, E., Edge, J., Offer, G. (2021), ‘Financial Viability of Electric Vehicle Lithium-Ion Battery Recycling’, *iScience* **24**, 102787. [[Open Access]](https://www.sciencedirect.com/science/article/pii/S2589004221007550).
@@ -25,13 +27,12 @@ recycling'. LSE Business Review. [[Blog]](https://blogs.lse.ac.uk/businessreview
 * Curran, B., Martin, R., Muller, S., Nguyen-Tien, V., Oliveira-Cunha, J., Serin, E., Shah, A., Valero, A. & Verhoeven, D. (2022), 'Growing clean : Identifying and investing in sustainable growth opportunities across the UK'. The Resolution Foundation. [[Report]](https://economy2030.resolutionfoundation.org/wp-content/uploads/2022/05/Growing_clean.pdf) [[Financial Times]](https://www.ft.com/content/4066afc1-aa57-4343-8f83-d2e7efb57d95?shareType=nongift).
 
 ## Work Submitted
-*	‘For Whom Senators Vote? Climate-related Natural Disasters and Environmental Legislation in the US’ (with Elliott, R. J. R., Strobl, E., Tveit, T.). [[Working Paper]](https://www.dropbox.com/s/bxgwdnec8ccbihm/Green%20voting.pdf?dl=0), R&R at *Journal of the Association of Environmental and Resource Economists*.
-* ‘The EV Revolution: Critical Material Supply Chains, Trade, and Development' (with Jones, B., Elliott, R.). [[Working Paper]](https://www.dropbox.com/s/e5kn3kpme9d2syv/CoMIT2.pdf?dl=0) [[Repec]](https://ideas.repec.org/p/bir/birmec/21-15.html), R&R at *The World Economy*
 * ‘Breaking it down: A techno-economic assessment of the impact of battery pack design on disassembly costs’ (with Lander, L.,  Tagnon, C., Kendrick, E., Elliott, R.,  Abbott, A. , Edge, J., Offer, G.), submitted to *Nature Sustainability*.
 
  
 ## Work in Progress
 *	‘The New Wave? Technology Diffusion in the UK during the 2010s.’ (with Draca, M., Nathan, M., Sivropoulos-Valero, A., Zhang, S., Rosso, A., Oliveira-Cunha, J.).[[POID]](https://poid.lse.ac.uk/events/past-research-seminars.asp) [[Slides]](https://warwick.ac.uk/fac/soc/economics/staff/mdraca/new_wave_3.pdf)
+*	‘Economic Growth Goes ‘Fractal’: The Changing Structure of the UK’s High-Growth Economy’ (with Draca, M., Nathan, M., Sivropoulos-Valero, A., Zhang, S., Rosso, A., Oliveira-Cunha, J.).  [[Slides]](https://escoe-website.s3.amazonaws.com/wp-content/uploads/2022/10/14104446/Session-1-Measurement.pdf)
 *	‘The Empirics of 'Blitzscaling': technology and high-growth firms in the UK’ (with Draca, M., Nathan, M., Sivropoulos-Valero, A., Zhang, S., Rosso, A., Oliveira-Cunha, J.). [[POID]](https://poid.lse.ac.uk/events/past-research-seminars.asp)
 *	‘Extreme Weather, Vehicle Reliability and Scrappage Schemes’ (with Elliott, R., Strobl, E., Zhang, C.).
 *	‘Mineral Price Shocks, Disruptive Technologies and Innovative Firms’.
