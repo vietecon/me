@@ -28,9 +28,11 @@ recycling'. LSE Business Review. [[Blog]](https://blogs.lse.ac.uk/businessreview
 * Curran, B., Martin, R., Muller, S., Nguyen-Tien, V., Oliveira-Cunha, J., Serin, E., Shah, A., Valero, A. & Verhoeven, D. (2022), 'Growing clean : Identifying and investing in sustainable growth opportunities across the UK'. The Resolution Foundation. [[Report]](https://economy2030.resolutionfoundation.org/wp-content/uploads/2022/05/Growing_clean_report.pdf) [[Financial Times]](https://www.ft.com/content/4066afc1-aa57-4343-8f83-d2e7efb57d95?shareType=nongift).
  
 ## Work in Progress
+* ‘Climate, Innovation, Employment’ (with Van Reenen, J., Martin, R., Valero, A., Bratch, F., Shah, A.).
 *	‘The New Wave? Technology Diffusion in the UK during the 2010s.’ (with Draca, M., Nathan, M., Sivropoulos-Valero, A., Zhang, S., Rosso, A., Oliveira-Cunha, J.).[[POID]](https://poid.lse.ac.uk/events/past-research-seminars.asp) [[Slides]](https://warwick.ac.uk/fac/soc/economics/staff/mdraca/new_wave_3.pdf)
 *	‘Economic Growth Goes ‘Fractal’: The Changing Structure of the UK’s High-Growth Economy’ (with Draca, M., Nathan, M., Sivropoulos-Valero, A., Zhang, S., Rosso, A., Oliveira-Cunha, J.).  [[Slides]](https://escoe-website.s3.amazonaws.com/wp-content/uploads/2022/10/14104446/Session-1-Measurement.pdf)
 *	‘The Empirics of 'Blitzscaling': technology and high-growth firms in the UK’ (with Draca, M., Nathan, M., Sivropoulos-Valero, A., Zhang, S., Rosso, A., Oliveira-Cunha, J.). [[POID]](https://poid.lse.ac.uk/events/past-research-seminars.asp)
+*	‘Electric Vehicle Chargers, House Prices and Inequality’ (with Beltran, A.).
 *	‘Extreme Weather, Vehicle Reliability and Scrappage Schemes’ (with Elliott, R., Strobl, E., Zhang, C.).
 *	‘Mineral Price Shocks, Disruptive Technologies and Innovative Firms’.
 
