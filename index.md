@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-I am an applied economist interested in economic and political issues related to technology, the environment, and energy. I am currently based at the Centre for Economic Performance (CEP), [London School of Economics and Political Science (LSE)](https://www.lse.ac.uk) as a [Research Economist](https://cep.lse.ac.uk/_new/staff/person.asp?id=10783). Before joining CEP, I was a [Faraday Institution](https://faraday.ac.uk/) Postdoctoral Research Fellow at the [University of Birmingham](https://www.birmingham.ac.uk), where I gained an MSc degree in International Economics (2015) and a PhD degree in Economics (2019). My active research topics include:
+I am an applied economist interested in economic and political issues related to technology, the environment, energy and development. I am currently based at the Centre for Economic Performance (CEP), [London School of Economics and Political Science (LSE)](https://www.lse.ac.uk) as a [Research Economist](https://cep.lse.ac.uk/_new/staff/person.asp?id=10783). Before joining CEP, I was a [Faraday Institution](https://faraday.ac.uk/) Postdoctoral Research Fellow at the [University of Birmingham](https://www.birmingham.ac.uk), where I gained an MSc degree in International Economics (2015) and a PhD degree in Economics (2019). My active research topics include:
 * Innovation, productivity, and sustainable growth.
 * The politics of climate-related natural disasters.
 * Low-carbon technology, resource security, and circular economy.
