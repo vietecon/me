@@ -14,6 +14,7 @@ I am an applied economist interested in economic and political issues related to
 ## Publications 
 * Elliott, R., Nguyen-Tien, V., Strobl, E., Tveit, T. (2023), ‘Natural Disasters and Voting Behavior: Evidence from Environmental Legislation in the US Senate’, *Journal of the Association of Environmental and Resource Economists*, **10** (3). [[Paper]](https://www.journals.uchicago.edu/doi/10.1086/722540).
 * Jones, B., Nguyen-Tien, V., & Elliott, R. (2023), ‘The electric vehicle revolution: Critical material supply chains,trade and development’, The World Economy, **46** (1), 1– 16. [[Open Access]](https://onlinelibrary.wiley.com/doi/full/10.1111/twec.13345).
+* Lander, L., Tagnon, C., Nguyen-Tien, V. Kendrick, E., Elliott, R., Abbott, A. , Edge, J., Offer, G. (2023) ‘Breaking it down: A techno-economic assessment of the impact of battery pack design on disassembly costs’, Applied Energy, **331**, 120437.  [[Open Access]](https://www.sciencedirect.com/science/article/pii/S0306261922005943](https://www.sciencedirect.com/science/article/pii/S0306261922016944).
 *	Nguyen-Tien, V., Dai, Q., Harper, G., Paul, A., Elliott, R., (2022) ‘Optimising the Geospatial Configuration of a Future Lithium-Ion Battery Recycling Industry in the Transition to Electric Vehicles and a Circular Economy’, *Applied Energy* **321** 119230.  [[Open Access]](https://www.sciencedirect.com/science/article/pii/S0306261922005943).
 * Elliott, R., Nguyen-Tien, V., Strobl, E. (2021), ‘Power Outages and Firm Performance: A Hydro-IV Approach for a Single Electricity Grid’, *Energy Economics* **103**, 105571. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0140988321004436).
 * Lander, L., Cleaver, T., Rajaeifar, M., Nguyen-Tien, V., Elliott, R., Heidrich, O., Kendrick, E., Edge, J., Offer, G. (2021), ‘Financial Viability of Electric Vehicle Lithium-Ion Battery Recycling’, *iScience* **24**, 102787. [[Open Access]](https://www.sciencedirect.com/science/article/pii/S2589004221007550).
@@ -25,10 +26,6 @@ I am an applied economist interested in economic and political issues related to
 recycling'. LSE Business Review. [[Blog]](https://blogs.lse.ac.uk/businessreview/2022/07/07/green-growth-and-electric-vehicles-the-role-of-recycling/).
 * Valero, A., Li, J., Muller, S., Riom, C., Nguyen-Tien, V. and Draca, M. (2021), 'Are ‘green’ jobs good jobs? Howlessons from the experience to-date can inform labour market transitions of the future'. London: Grantham Research Institute on Climate Change and the Environment and Centre for Economic Performance, London School of Economics and Political Science. [[Report]](https://cep.lse.ac.uk/pubs/download/special/cepsp39.pdf).
 * Curran, B., Martin, R., Muller, S., Nguyen-Tien, V., Oliveira-Cunha, J., Serin, E., Shah, A., Valero, A. & Verhoeven, D. (2022), 'Growing clean : Identifying and investing in sustainable growth opportunities across the UK'. The Resolution Foundation. [[Report]](https://economy2030.resolutionfoundation.org/wp-content/uploads/2022/05/Growing_clean_report.pdf) [[Financial Times]](https://www.ft.com/content/4066afc1-aa57-4343-8f83-d2e7efb57d95?shareType=nongift).
-
-## Work Submitted
-* ‘Breaking it down: A techno-economic assessment of the impact of battery pack design on disassembly costs’ (with Lander, L.,  Tagnon, C., Kendrick, E., Elliott, R.,  Abbott, A. , Edge, J., Offer, G.), submitted to *Nature Sustainability*.
-
  
 ## Work in Progress
 *	‘The New Wave? Technology Diffusion in the UK during the 2010s.’ (with Draca, M., Nathan, M., Sivropoulos-Valero, A., Zhang, S., Rosso, A., Oliveira-Cunha, J.).[[POID]](https://poid.lse.ac.uk/events/past-research-seminars.asp) [[Slides]](https://warwick.ac.uk/fac/soc/economics/staff/mdraca/new_wave_3.pdf)
