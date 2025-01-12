@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-I am an applied economist interested in economic and political issues related to technology, the environment, energy and development. I am currently based at the Centre for Economic Performance (CEP), [London School of Economics and Political Science (LSE)](https://www.lse.ac.uk) as a [Research Economist](https://cep.lse.ac.uk/_new/staff/person.asp?id=10783). Before joining CEP, I was a [Faraday Institution](https://faraday.ac.uk/) Postdoctoral Research Fellow at the [University of Birmingham](https://www.birmingham.ac.uk), where I gained an MSc degree in International Economics (2015) and a PhD degree in Economics (2019). My active research topics include:
+I am an applied economist interested in economic and political issues related to technology, the environment, energy and development. I am currently based at the Centre for Economic Performance (CEP), [London School of Economics and Political Science (LSE)](https://www.lse.ac.uk) as a [Research Officer](https://cep.lse.ac.uk/_new/staff/person.asp?id=10783). Before joining CEP, I was a [Faraday Institution](https://faraday.ac.uk/) Postdoctoral Research Fellow at the [University of Birmingham](https://www.birmingham.ac.uk), where I gained an MSc degree in International Economics (2015) and a PhD degree in Economics (2019). My active research topics include:
 * Innovation, productivity, and sustainable growth.
 * The politics of climate-related natural disasters.
 * Low-carbon technology, resource security, and circular economy.
@@ -12,6 +12,8 @@ I am an applied economist interested in economic and political issues related to
 
 # Research
 ## Publications 
+* Nguyen-Tien, V., Zhang, C., Strob, E., Elliott, R. (2025),  ‘The closing longevity gap between battery electric vehicles and internal combustion vehicles in Great Britain’, *Nature Energy*, (forthcoming)  [In press](https://eprints.lse.ac.uk/126554/) [WP version](https://cep.lse.ac.uk/pubs/download/dp1972.pdf).
+*	 Draca, M., Nathan, M., Nguyen-Tien, V.,  Oliveira-Cunha, J.,  Rosso, A. Sivropoulos-Valero, A. (2024), ‘The New Wave? Technology Diffusion in the UK during the 2010s.’, *CEP Working Paper*, **2040**. [[Paper]](https://cep.lse.ac.uk/pubs/download/dp2040.pdf).
 * Elliott, R., Nguyen-Tien, V., Strobl, E., Tveit, T. (2023), ‘Natural Disasters and Voting Behavior: Evidence from Environmental Legislation in the US Senate’, *Journal of the Association of Environmental and Resource Economists*, **10** (3). [[Paper]](https://www.journals.uchicago.edu/doi/10.1086/722540).
 * Jones, B., Nguyen-Tien, V., & Elliott, R. (2023), ‘The electric vehicle revolution: Critical material supply chains,trade and development’, The World Economy, **46** (1), 1– 16. [[Open Access]](https://onlinelibrary.wiley.com/doi/full/10.1111/twec.13345).
 * Lander, L., Tagnon, C., Nguyen-Tien, V. Kendrick, E., Elliott, R., Abbott, A. , Edge, J., Offer, G. (2023) ‘Breaking it down: A techno-economic assessment of the impact of battery pack design on disassembly costs’, Applied Energy, **331**, 120437.  [[Open Access]](https://www.sciencedirect.com/science/article/pii/S0306261922016944).
@@ -28,12 +30,9 @@ recycling'. LSE Business Review. [[Blog]](https://blogs.lse.ac.uk/businessreview
 * Curran, B., Martin, R., Muller, S., Nguyen-Tien, V., Oliveira-Cunha, J., Serin, E., Shah, A., Valero, A. & Verhoeven, D. (2022), 'Growing clean : Identifying and investing in sustainable growth opportunities across the UK'. The Resolution Foundation. [[Report]](https://economy2030.resolutionfoundation.org/wp-content/uploads/2022/05/Growing_clean_report.pdf) [[Financial Times]](https://www.ft.com/content/4066afc1-aa57-4343-8f83-d2e7efb57d95?shareType=nongift).
  
 ## Work in Progress
-* ‘Climate, Innovation, Employment’ (with Van Reenen, J., Martin, R., Valero, A., Bratch, F., Shah, A.).
 * ‘Mineral Price Shocks, Disruptive Technologies and Innovative Firms’.
-*	‘The New Wave? Technology Diffusion in the UK during the 2010s.’ (with Draca, M., Nathan, M., Sivropoulos-Valero, A., Zhang, S., Rosso, A., Oliveira-Cunha, J.).[[POID]](https://poid.lse.ac.uk/events/past-research-seminars.asp) [[Slides]](https://warwick.ac.uk/fac/soc/economics/staff/mdraca/new_wave_3.pdf)
 *	‘Economic Growth Goes ‘Fractal’: The Changing Structure of the UK’s High-Growth Economy’ (with Draca, M., Nathan, M., Sivropoulos-Valero, A., Zhang, S., Rosso, A., Oliveira-Cunha, J.).  [[Slides]](https://escoe-website.s3.amazonaws.com/wp-content/uploads/2022/10/14104446/Session-1-Measurement.pdf)
 *	‘The Empirics of 'Blitzscaling': technology and high-growth firms in the UK’ (with Draca, M., Nathan, M., Sivropoulos-Valero, A., Zhang, S., Rosso, A., Oliveira-Cunha, J.). [[POID]](https://poid.lse.ac.uk/events/past-research-seminars.asp)
 *	‘Electric Vehicle Chargers, House Prices and Inequality’ (with Beltran, A.).
-*	‘Extreme Weather, Vehicle Reliability and Scrappage Schemes’ (with Elliott, R., Strobl, E., Zhang, C.).
 
 
